@@ -1,0 +1,11 @@
+oss:
+  accessKeyID: 123
+  accessKeySecret: 123
+
+  endpoint: oss-cn-zhangjiakou.aliyuncs.com
+  bucketName: backup
+log:
+
+  Path: log/
+  LogLevel: debug
+
